@@ -1,0 +1,3 @@
+bookstore:
+  data:
+    url: https://raw.githubusercontent.com/contribe/contribe/dev/bookstoredata/bookstoredata.txt

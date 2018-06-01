@@ -1,0 +1,2 @@
+Random Sales;Cunning Bastard;999.00;20
+Random Sales;Cunning Bastard;499.50;3
